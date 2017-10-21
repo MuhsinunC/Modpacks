@@ -1,2 +1,0 @@
-# Modpacks
-My Minecraft modpacks
