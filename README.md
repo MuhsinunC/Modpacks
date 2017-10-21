@@ -1,1 +1,1 @@
-New Zeno's Advnture Modpack branch
+Zeno's Adventure Modpack branch
